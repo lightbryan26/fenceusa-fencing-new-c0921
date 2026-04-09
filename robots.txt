@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lightbryan26.github.io/fenceusa-fencing-new-c0921/sitemap.xml
+Sitemap: https://fenceusa-fencing-new-c0921.pages.dev/sitemap.xml
